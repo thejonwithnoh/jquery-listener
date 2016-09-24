@@ -1,0 +1,27 @@
+{
+	"name": "jquery-listener",
+	"version": "0.0.0",
+	"description": "jQuery is sneaky, but you're sneakier!",
+	"main": "jquery-listener.js",
+	"repository":
+	{
+		"type": "git",
+		"url": "git://github.com/thejonwithnoh/jquery-listener.git"
+	},
+	"keywords":
+	[
+		"jquery",
+		"listener"
+	],
+	"author": "Jonathan Faulch",
+	"license": "MIT",
+	"bugs":
+	{
+		"url": "https://github.com/thejonwithnoh/jquery-listener/issues"
+	},
+	"homepage": "https://github.com/thejonwithnoh/jquery-listener#readme",
+	"dependencies":
+	{
+		"jquery": ">=1.7.0"
+	}
+}
